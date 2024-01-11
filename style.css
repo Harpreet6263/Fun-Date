@@ -1,0 +1,35 @@
+
+#heading{
+  text-align: center;
+}
+#gif{
+  display: flex;
+  justify-content: center;
+  height: 300px;
+}
+h1{
+  font-size: 50px;
+  margin-top: 50px;
+  color: rgb(3, 186, 125);
+}
+.btn{
+  height: 300px;
+  
+}
+#yes{
+  position: relative;
+  border-radius: 30px;
+  background-color: rgb(210, 243, 232);
+  top: 50%;
+  left: 44%;
+  padding: 10px 30px;
+
+}
+#no{
+  position: relative;
+  border-radius: 30px;
+  background-color: rgb(210, 243, 232);
+  top: 50%;
+  left: 45%;
+ padding: 10px 30px;
+}
